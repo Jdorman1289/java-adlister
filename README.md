@@ -17,7 +17,7 @@ curriculum.
 
 2. Checkout the corresponding branch
 
-    For example:
+    Example:
 
     ```
     git checkout servlets-start
